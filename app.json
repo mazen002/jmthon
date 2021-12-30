@@ -3,13 +3,13 @@
   "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
   "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
   "keywords": [
-    "plugin",
-    "modular",
-    "productivity"
+    "Telethon",
+    "Telegram",
+    "Userbot"
   ],
   "repository": "https://github.com/JMTHON-AR/jmthon",
   "website": "#TODO",
-  "success_url": "#TODO",
+  "success_url": "https://t.me/Telegram",
   "env": {
     "ALIVE_NAME": {
       "description": "هـنا ضع اسم حسابك الخاص بالتلي",
